@@ -1,5 +1,7 @@
 # CS-350-Emerging-Systems-Architecture-and-Tech
 
+## [Video recording of final project](https://youtu.be/mvEC0YF2eJ4)
+
 ## • Summarize the project and what problem it was solving.
 The goal of the project was to make a smart thermostat prototype. We were given some functions, features, and the time intervals (periods) that they should occur in. The end goal wasn’t a full-fledged product, but more of a proof of concept for a company looking to expand their business into an adjacent space.
 
